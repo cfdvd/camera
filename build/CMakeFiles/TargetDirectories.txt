@@ -1,0 +1,4 @@
+/home/zhb15/Desktop/note/cxx/test/build/CMakeFiles/test.dir
+/home/zhb15/Desktop/note/cxx/test/build/CMakeFiles/edit_cache.dir
+/home/zhb15/Desktop/note/cxx/test/build/CMakeFiles/rebuild_cache.dir
+/home/zhb15/Desktop/note/cxx/test/build/CMakeFiles/test_autogen.dir
